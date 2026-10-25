@@ -1,16 +1,21 @@
-## Hi there 👋
+<!-- Keep README.md and assets together. Banner and native Markdown share one table frame. -->
 
-<!--
-**scy-v/scy-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table width="100%">
+<tr>
+<td>
 
-Here are some ideas to get you started:
+<img src="assets/profile-integrated.png" width="100%" alt="Hi, I'm Chenyu! Foundation models for robotic manipulation &amp; embodied AI. A playful robot workshop with balanced coral, butter yellow, lavender, sky blue and mint accents on white." />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+Hi! 👋 I'm **Chenyu Su**, a third-year Ph.D. student at the University of Science and Technology of China (**[USTC](https://en.ustc.edu.cn/)**), advised by Prof. **[Weiwei Shang](http://staff.ustc.edu.cn/~wwshang/)**.
+
+My research focuses on **foundation models for robotics**, with the goal of enabling **reliable and generalizable manipulation in the real world**. I'm currently interested in:
+
+- **Spatial Intelligence & Embodied Agents.** Leveraging foundation model priors for spatial reasoning and robotic manipulation, and building embodied agents for autonomous task execution.
+- **Foundation Model Post-Training & Continual Learning:** Advancing foundation models through real-world reinforcement learning and experience-driven closed-loop policy optimization.
+- **Foundation Models for Robotics:** Researching and developing robot foundation models from large-scale data collection and pre-training to post-training and real-world deployment.
+
+</td>
+</tr>
+</table>
