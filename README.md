@@ -1,9 +1,3 @@
-<!-- Keep README.md and assets together. Banner and native Markdown share one table frame. -->
-
-<table width="100%">
-<tr>
-<td>
-
 <img src="assets/profile-integrated.png" width="100%" alt="Hi, I'm Chenyu! Foundation models for robotic manipulation &amp; embodied AI. A playful robot workshop with balanced coral, butter yellow, lavender, sky blue and mint accents on white." />
 
 <br />
@@ -15,7 +9,3 @@ My research focuses on **foundation models for robotics**, with the goal of enab
 - **Spatial Intelligence & Embodied Agents.** Leveraging foundation model priors for spatial reasoning and robotic manipulation, and building embodied agents for autonomous task execution.
 - **Foundation Model Post-Training & Continual Learning:** Advancing foundation models through real-world reinforcement learning and experience-driven closed-loop policy optimization.
 - **Foundation Models for Robotics:** Researching and developing robot foundation models from large-scale data collection and pre-training to post-training and real-world deployment.
-
-</td>
-</tr>
-</table>
