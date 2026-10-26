@@ -8,6 +8,6 @@ My research focuses on **foundation models for robotics**, with the goal of enab
 
 - **Spatial Intelligence & Embodied Agents.** Leveraging foundation model priors for spatial reasoning and robotic manipulation, and building embodied agents for autonomous task execution.
 - **Foundation Model Post-Training & Continual Learning:** Advancing foundation models through real-world reinforcement learning and experience-driven closed-loop policy optimization.
-- **Foundation Models for Robotic Manipulation:** Researching and developing foundation models for robotic manipulation, from large-scale data collection and pre-training to post-training and real-world deployment.
+- **Foundation Models for Robotic Manipulation:** We are exploring ways to develop and advance robotic foundation models, from large-scale data collection and pre-training to post-training and real-world deployment.
 
 Feel free to reach out at **[suchenyu@mail.ustc.edu.cn](mailto:suchenyu@mail.ustc.edu.cn)** if you're interested in my work or research collaboration! 😊
